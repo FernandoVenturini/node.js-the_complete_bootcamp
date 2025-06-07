@@ -1,0 +1,2 @@
+### RODAR O PROJETO:
+    -> node index.js
