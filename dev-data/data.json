@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "productName": "Fresh Strawberries",
+        "image": "🍓",
+        "from": "California, USA",
+        "nutrients": "Vitamin C, Fiber, Antioxidants",
+        "quantity": "1 lb 🍓",
+        "price": "4.20",
+        "organic": true,
+        "description": "Juicy and sweet, these strawberries are hand-picked at peak ripeness for maximum flavor. Perfect for smoothies, desserts, or eating fresh. Rich in antioxidants, they help boost immunity and promote healthy skin."
+    },
+    {
+        "id": 2,
+        "productName": "Crunchy Almonds",
+        "image": "🌰",
+        "from": "Morocco",
+        "nutrients": "Protein, Vitamin E, Magnesium",
+        "quantity": "200g 🌰",
+        "price": "5.80",
+        "organic": false,
+        "description": "These almonds are lightly roasted for a satisfying crunch. Packed with healthy fats and protein, they make a great snack for energy. Vitamin E supports skin health, while magnesium helps with muscle recovery."
+    },
+    {
+        "id": 3,
+        "productName": "Sweet Pineapple",
+        "image": "🍍",
+        "from": "Costa Rica",
+        "nutrients": "Vitamin C, Manganese, Bromelain",
+        "quantity": "1 whole 🍍",
+        "price": "3.90",
+        "organic": true,
+        "description": "Naturally sweet and tangy, this pineapple is grown in tropical climates for optimal taste. Contains bromelain, an enzyme that aids digestion. Great for fruit salads, juices, or grilling for a caramelized treat."
+    },
+    {
+        "id": 4,
+        "productName": "Organic Spinach",
+        "image": "🥬",
+        "from": "Netherlands",
+        "nutrients": "Iron, Vitamin K, Folate",
+        "quantity": "150g 🥬",
+        "price": "2.70",
+        "organic": true,
+        "description": "Tender and nutrient-dense, this spinach is perfect for salads, smoothies, or sautéing. High in iron, it helps maintain healthy blood circulation, while vitamin K supports bone health. Grown without synthetic pesticides."
+    }
+    
+]
